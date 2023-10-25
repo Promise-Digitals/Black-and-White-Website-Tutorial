@@ -184,9 +184,11 @@ nav ul li a:hover{
     border-radius: 30px;
     font-weight: 600;
     transition: 0.5s;
+    border: 1px solid #fff;
 }
 .move2 a:hover{
-    padding: 12px 35px;
+    background: #000;
+    color: #fff;
 }
 .third{
     width: 100%;
@@ -274,8 +276,11 @@ nav ul li a:hover{
     font-size: 14px;
     border-radius: 30px;
     font-weight: 600;
-    transition: 0.5s;
+    transition: 0.4s;
+    border: 1px solid #000;
 }
 .move3 a:hover{
-    padding: 12px 35px;
+    background: #fff;
+    color: #000;
 }
+
